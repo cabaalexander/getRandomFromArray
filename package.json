@@ -1,0 +1,20 @@
+{
+  "name": "get-random-from-array",
+  "version": "1.0.1",
+  "description": "This gets a random value from an array, but never gets the same value twice.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabaalexander/getRandomFromArray.git"
+  },
+  "keywords": [
+    "array",
+    "random",
+    "value"
+  ],
+  "author": "Alexander Caba @cabaalexander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cabaalexander/getRandomFromArray/issues"
+  },
+  "homepage": "https://github.com/cabaalexander/getRandomFromArray#readme"
+}
