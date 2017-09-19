@@ -1,5 +1,5 @@
 # getRandomFromArray
-This gets a random value from an array, but never gets the same value twice.
+This gets a random value from an array, but never gets the same value twice in a row.
 
 ```js
 const makeGetRandomFromArray = require('get-random-from-array')

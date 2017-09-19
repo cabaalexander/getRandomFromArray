@@ -1,7 +1,7 @@
 const makeGetRandomFromArray = (array) => {
   let lastIndex
   let _getRandomFromArray = () => {
-    if (!array) {
+    if (!array || !Array.isArray(array)) {
       return []
     }
     if (array.length === 1) {
