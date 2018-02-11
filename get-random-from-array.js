@@ -18,5 +18,5 @@ const makeGetRandomFromArray = (array) => {
   return _getRandomFromArray
 }
 
-module.exports = makeGetRandomFromArray;
+module.exports = makeGetRandomFromArray
 
